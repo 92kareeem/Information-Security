@@ -1,4 +1,4 @@
-### **RSA Encryption & Decryption in Java**  
+### **RSA Encryption & Decryption in Java**   Rivest-Shamir-Adleman
 This program implements the **RSA algorithm**, a widely used public-key cryptosystem for secure data transmission. It generates two large prime numbers to compute the modulus (*N*) and derives the public and private keys. The encryption is performed using modular exponentiation with the public key, while decryption uses the private key.  
 
 🔹 **Key Features:**  
